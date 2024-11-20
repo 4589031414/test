@@ -2,6 +2,6 @@
     {
         "key": "test",
         "username": "admin",
-        "hwid": "hardwareId"
+        "hwid": "alexa"
     }
 ]
