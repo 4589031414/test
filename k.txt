@@ -1,1 +1,7 @@
-test
+[
+    {
+        "key": "test",
+        "username": "admin",
+        "hwid": "hardwareId"
+    }
+]
