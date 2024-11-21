@@ -3,5 +3,10 @@
         "key": "test",
         "username": "admin",
         "hwid": "alexa"
+    },
+    {
+        "key": "slappy1",
+        "username": "slappy",
+        "hwid": "None"
     }
 ]
