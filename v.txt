@@ -1,1 +1,4 @@
-
+{
+"version": 7,
+"model_download": "https://cdn.discordapp.com/attachments/846130390574170183/1309019200999919727/FortniteYv11_v7.pt?ex=67400ea1&is=673ebd21&hm=4c9846be66580686e61c15730a4bc2009ca5acd63d4fa7dd5ed071bd52e55d03&"
+}
