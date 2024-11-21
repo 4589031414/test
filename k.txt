@@ -7,6 +7,6 @@
     {
         "key": "slappy1",
         "username": "slappy",
-        "hwid": "None"
+        "hwid": "Jude"
     }
 ]
