@@ -8,5 +8,10 @@
         "key": "slappy1",
         "username": "slappy",
         "hwid": "Jude"
+    },
+    {
+        "key": "cloudy1",
+        "username": "cloudy",
+        "hwid": "None"
     }
 ]
