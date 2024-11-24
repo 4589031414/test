@@ -12,6 +12,6 @@
     {
         "key": "cloudy1",
         "username": "cloudy",
-        "hwid": "None"
+        "hwid": "biffs"
     }
 ]
