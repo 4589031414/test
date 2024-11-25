@@ -13,5 +13,10 @@
         "key": "cloudy1",
         "username": "cloudy",
         "hwid": "biffs"
-    }
+    },
+    {
+        "key": "yeta1",
+        "username": "yeta",
+        "hwid": "None"
+    },
 ]
