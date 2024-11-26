@@ -1,4 +1,4 @@
 {
 "version": 10,
-"model_download": "https://cdn.discordapp.com/attachments/846130390574170183/1310328325062787102/best.pt?ex=6744d1d9&is=67438059&hm=6897192f0b8c56bff16f88be113d5bd0d25a2b1247169174bd9726b46930f980&"
+"model_download": "https://cdn.discordapp.com/attachments/846130390574170183/1310328325062787102/best.pt?ex=67462359&is=6744d1d9&hm=cba6a9b1d982cb7950deb0db0dc871bb5ab9c1ac73ade7a1d992ce5afc8a07da&"
 }
