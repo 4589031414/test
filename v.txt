@@ -1,4 +1,4 @@
 {
-"version": 10,
-"model_download": "https://cdn.discordapp.com/attachments/846130390574170183/1311614581357154385/FortniteYv11_v10.pt?ex=67497fc4&is=67482e44&hm=5e350f9959f564aeb82db5cd435de4bc5ea43957bb7ff62f25957de1667d05b7&"
+"version": 11,
+"model_download": "https://cdn.discordapp.com/attachments/846130390574170183/1312224699144474664/best.pt?ex=674bb7fc&is=674a667c&hm=1575e437a54287f3a5fdc28f594fe1101a38fcb36b05304a860447da7abb706a&"
 }
