@@ -18,5 +18,10 @@
         "key": "yeta1",
         "username": "yeta",
         "hwid": "None"
+    },
+    {
+        "key": "daya1",
+        "username": "None",
+        "hwid": "None"
     }
 ]
